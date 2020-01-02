@@ -1,0 +1,23 @@
+{
+  "name": "t-recs",
+  "version": "0.0.0",
+  "description": "Music recommendation engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tier1machines/t-recs.git"
+  },
+  "author": "tier1machines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tier1machines/t-recs/issues"
+  },
+  "homepage": "https://github.com/tier1machines/t-recs#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "express": "^4.17.1"
+  }
+}
